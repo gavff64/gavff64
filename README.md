@@ -4,6 +4,5 @@
 <div align="center">
   
 # **I'm Gavff, Ruby developer!** 🐸💎⛏️
-### [Twitch](https://www.twitch.tv/gavff)
-(btw it's pronounced "gaff")
+(pronounced "gaff")
 </div>
