@@ -3,6 +3,6 @@
 </div>
 <div align="center">
   
-# **I'm Gavff, a Ruby developer!** 🐸⛏️
-(pronounced "gaff")
+# **RUBY DEVELOPER** 🤯🐸⛏️
+(it's pronounced "gaff" btw)
 </div>
