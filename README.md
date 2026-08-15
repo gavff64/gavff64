@@ -1,5 +1,6 @@
-<div align="left">
-  <img width="521" height="180" alt="me" src="https://github.com/user-attachments/assets/fdc3a9f5-3df5-493c-90f5-555abc20b973" />
+<div align="right">
+  welcome to my really cool profile, here's my facecam:
+  <img width="175" height="130" alt="ok" src="https://github.com/user-attachments/assets/4257f2d1-bb7b-4372-8d4c-bd44f011985a" />
 </div>
 
 ---
@@ -37,7 +38,7 @@ frames.each do |frame|
   sleep 0.03
 end
 ```
-
-<div align="right">
+*very cool...*
+<div align="left">
   <img width="150" height="100" alt="love" src="https://github.com/user-attachments/assets/80901d55-72d1-49f1-9f7e-2117e864e536" />
 </div>
