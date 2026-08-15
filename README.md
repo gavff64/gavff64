@@ -1,5 +1,5 @@
 <div align="right">
-  welcome to my really cool profile, here's my facecam:
+  welcome to my cool profile, here's my facecam:
   <img width="175" height="130" alt="ok" src="https://github.com/user-attachments/assets/4257f2d1-bb7b-4372-8d4c-bd44f011985a" />
 </div>
 
