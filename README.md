@@ -28,7 +28,7 @@ end
 
 until t.join(0) do
   color = %w[red blue green yellow magenta cyan white].sample.to_sym
-  text = Paint['This is why...', color, :bright]
+  text = Paint['This is why... :) pls wait...', color, :bright]
   print "\r#{text}"
   sleep 0.1
 end
